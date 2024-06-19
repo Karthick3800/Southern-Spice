@@ -127,7 +127,7 @@ return(
     isopen ?
     (
       <Order close={close}/>
-    ):<p>We 're happy to welcome youn between {close}:00 and {open}:00 .</p>
+    ):<p>We 're happy to welcome youn between {close}:00 and {open}:00 </p>
   }
 </footer>
 );
